@@ -1,4 +1,4 @@
-# MIT ADT University Website
+# MIT ADT University Demo Website
 
 React-based university website built with Vite.
 
