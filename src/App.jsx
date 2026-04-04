@@ -20,6 +20,8 @@ export default function App() {
           <Route path="/admissions" element={<Admissions />} />
           <Route path="/research" element={<Research />} />
           <Route path="/contact" element={<Contact />} />
+          <Route path="/students" element={<Students />} />
+
         </Routes>
       </main>
       <Footer />
